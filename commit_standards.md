@@ -36,7 +36,7 @@ in a reasonable manner.
 
 ### DO
 - Write the summary line and description in [imperative mood](http://en.wikipedia.org/wiki/Imperative_mood). Write “fix”, “add”, “change” instead of “fixed”, “added”, “changed”.
-- Write commit messages in [sentence case](http://en.wikipedia.org/wiki/Letter_case#Headings_and_publication_titles); not title case (do not capitalize every word of the sentence).
+- Write commit messages in [sentence case](https://en.wikipedia.org/wiki/Letter_case#Case_styles); not title case (do not capitalize every word of the sentence).
 - Always mention relating issue numbers in the commit message.
 - Always leave the second line blank if you're writing a multiple line commit message.
 - Line break the commit message so it could be properly viewed on GUI clients such as ```gitk``` without having the need to scroll horizontally.
