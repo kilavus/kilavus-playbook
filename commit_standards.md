@@ -43,7 +43,7 @@ in a reasonable manner.
 
 ### DON'T
 - Don’t end the summary line with a period.
-- Don't start commit messages with a lowercase letter (```#3 add defect``` ✘ - ```#3 Add coolness``` ✔).
+- Don't start commit messages with a lowercase letter (```add defect``` ✘ - ```Add coolness``` ✔).
 - Don't start with a lowercase letter after issue reference (```#3 add sauce``` ✘ - ```#3 Add sauce``` ✔).
 
 
